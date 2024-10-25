@@ -23,8 +23,8 @@ This project was bootstrapped with [Vite](https://vite.dev/)
 
   To run this project locally, you will need:
 
-    + Node.js v18 or higher
-    + npm or yarn
+   - Node.js v18 or higher
+   - npm or yarn
 
 ## Technologies
 
@@ -35,28 +35,28 @@ This project was bootstrapped with [Vite](https://vite.dev/)
 
 ## Installation
 
-  1. Clone the repository
+1. Clone the repository:
 
     #### `git clone https://github.com/mixelio/2048-js-desktop.git`
 
-  2. Navigate to the project directory
+2. Navigate to the project directory:
 
     #### `cd 2048-js-desktop`
 
-  3. Install the dependencies:
+3. Install the dependencies:
 
     #### `npm install`
 
-  4. Start the development server:
+4. Start the development server:
+
     #### `npm start`
 
 ## Author
 
-  Developed by Mykhailo Hubko. You can reach me via:
-  [Linkedin](https://www.linkedin.com/in/michael-hubko/)
+  Developed by Mykhailo Hubko. You can reach me via: [Linkedin](https://www.linkedin.com/in/michael-hubko/)
   Email: mixelios@gmail.com
 
-# Additional information
+### Additional information
 
   more about JavaScript [JS-book](https://javascript.info/)
   more about Styles [css-tricks](https://css-tricks.com/)
