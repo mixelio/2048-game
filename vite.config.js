@@ -1,5 +1,5 @@
 export default {
-  base: '/2048-js-desktop/',
+  base: '/2048-game/',
   server: {
     watch: {
       usePolling: true,

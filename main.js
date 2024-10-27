@@ -24,7 +24,7 @@ start.addEventListener('click', e => {
       game[row][col] = '';
       rows[row].children[col].className = '';
       rows[row].children[col].classList.add('field-cell');
-      start.textContent = 'Re start';
+      start.textContent = 'Restart';
     }
   }
 

@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Vite](https://vite.dev/)
 
-[DEMO 2048-game](https://mixelio.github.io/2048-js-desktop/)
+[DEMO 2048-game](https://mixelio.github.io/2048-game/)
 
 # Project Overview
 
@@ -37,11 +37,11 @@ This project was bootstrapped with [Vite](https://vite.dev/)
 
 1. Clone the repository:
 
-    #### `git clone https://github.com/mixelio/2048-js-desktop.git`
+    #### `git clone https://github.com/mixelio/2048-game.git`
 
 2. Navigate to the project directory:
 
-    #### `cd 2048-js-desktop`
+    #### `cd 2048-game`
 
 3. Install the dependencies:
 
